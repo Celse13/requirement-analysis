@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/4220a19f-4ecc-4aac-9a45-c324a1dfb44b)# Requirement Analysis
-
 ## What is Requirement Analysis?
 Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) that involves gathering, understanding, and documenting the needs and expectations of stakeholders for a software system. It serves as the foundation for successful software development by ensuring that all parties have a clear understanding of what needs to be built.
 
