@@ -61,7 +61,7 @@ Benefits:
 * Helps identify all system users and their roles
 * Facilitates communication between stakeholders
 
-![Booking System Use Case Diagram](![<img width="1411" alt="Screenshot 2024-11-30 at 15 58 40" src="https://github.com/user-attachments/assets/bec5b4a6-de4b-455a-b71a-8e0fbc0222e1">](alx-booking-uc.png))
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
 Acceptance Criteria define the conditions that must be met for a requirement to be considered complete and acceptable.
